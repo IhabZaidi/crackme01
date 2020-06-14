@@ -1,0 +1,9 @@
+c:\users\this pc\documents\visual studio 2013\Projects\Crack me\Crack me\bin\Debug\Crack me.exe
+c:\users\this pc\documents\visual studio 2013\Projects\Crack me\Crack me\bin\Debug\Crack me.pdb
+c:\users\this pc\documents\visual studio 2013\Projects\Crack me\Crack me\bin\Debug\Crack me.xml
+c:\users\this pc\documents\visual studio 2013\Projects\Crack me\Crack me\obj\Debug\Crack_me.Form1.resources
+c:\users\this pc\documents\visual studio 2013\Projects\Crack me\Crack me\obj\Debug\Crack_me.Resources.resources
+c:\users\this pc\documents\visual studio 2013\Projects\Crack me\Crack me\obj\Debug\Crack me.vbproj.GenerateResource.Cache
+c:\users\this pc\documents\visual studio 2013\Projects\Crack me\Crack me\obj\Debug\Crack me.exe
+c:\users\this pc\documents\visual studio 2013\Projects\Crack me\Crack me\obj\Debug\Crack me.xml
+c:\users\this pc\documents\visual studio 2013\Projects\Crack me\Crack me\obj\Debug\Crack me.pdb
